@@ -10,3 +10,10 @@ resolve("Hello")
 const myFunc=async()=>{
     const data=await myPromise;
 }
+
+"lorem ipsum dolor sit amet, consectetur adipiscing el"
+"lorem ipsum dolor sit amet, consectetur adipiscing el"
+"lorem ipsum dolor sit amet, consectetur adipiscing el"
+"lorem ipsum dolor sit amet, consectetur adipiscing el"
+"lorem ipsum dolor sit amet, consectetur adipiscing el"
+"lorem ipsum dolor sit amet, consectetur adipiscing el"
